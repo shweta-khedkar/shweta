@@ -1,0 +1,13 @@
+{
+    "name": "privsyncro-blockchain",
+    "version": "1.0.0",
+    "description": "Smart contracts for PrivSyncro audit trails",
+    "scripts": {
+        "test": "npx hardhat test",
+        "compile": "npx hardhat compile"
+    },
+    "devDependencies": {
+        "hardhat": "^2.19.1",
+        "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+    }
+}
